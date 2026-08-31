@@ -1,17 +1,46 @@
-# my_app
+# Flutter Login UI 🔐
 
-A new Flutter project.
+A clean and modern **Login Screen UI built with Flutter**.  
+This project focuses on creating a simple, responsive, and visually appealing authentication interface.
 
-## Getting Started
+## 📱 Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/login-screen.png" alt="Flutter Login Screen" width="300"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 🔐 Modern login interface
+- 📧 Email input field
+- 🔑 Password input field
+- 👁️ Password visibility protection
+- 🔗 Forgot Password option
+- 🔓 Login button
+- 👤 Create New Account option
+- 🌐 Social login UI
+  - Google
+  - Facebook
+  - Apple
+- 🎨 Custom colors and borders
+- 📱 Responsive Flutter UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+- Font Awesome Flutter
+
+## 📂 Project Structure
+
+```text
+lib/
+│
+├── main.dart
+│
+└── screens/
+    └── login_screen.dart
+
+assets/
+└── login-screen.png
